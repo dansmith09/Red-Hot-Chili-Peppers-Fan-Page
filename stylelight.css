@@ -1,0 +1,28 @@
+* {
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1:hover {
+    background-color: darkred;
+}
+
+h2:hover {
+    background-color: darkred;
+}
+
+.styleLink:hover {
+    color: darkred;
+    background-color: black;
+}
+
+.styleLink:visited {
+    color: blue;
+}
+
+#dark {
+    background: black;
+    color: blanchedalmond;
+}
